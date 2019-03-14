@@ -1,0 +1,865 @@
+Month,Phyla,Taxa,Zone,Site,N,SarGr,Nkg
+Sep,Annelida,Platynereis dumerilii,2m,1,15,530,28.3
+Sep,Annelida,Platynereis dumerilii,2m,2,13,1300,10
+Sep,Annelida,Platynereis dumerilii,2m,3,3,1400,2.1
+Sep,Annelida,Platynereis dumerilii,2m,4,3,1680,1.8
+Sep,Annelida,Platynereis dumerilii,500m,1,49,160,306.3
+Sep,Annelida,Platynereis dumerilii,500m,2,10,80,125
+Sep,Annelida,Platynereis dumerilii,500m,3,50,440,113.6
+Sep,Annelida,Platynereis dumerilii,500m,4,13,160,81.3
+Sep,Annelida,Platynereis dumerilii,50m,1,92,410,224.4
+Sep,Annelida,Platynereis dumerilii,50m,2,22,110,200
+Sep,Annelida,Platynereis dumerilii,50m,3,37,90,411.1
+Sep,Annelida,Platynereis dumerilii,50m,4,56,280,200
+Sep,Arthropoda,Ampelisca sp,2m,1,0,530,0
+Sep,Arthropoda,Ampelisca sp,2m,2,0,1300,0
+Sep,Arthropoda,Ampelisca sp,2m,3,0,1400,0
+Sep,Arthropoda,Ampelisca sp,2m,4,0,1680,0
+Sep,Arthropoda,Ampelisca sp,500m,1,0,160,0
+Sep,Arthropoda,Ampelisca sp,500m,2,0,80,0
+Sep,Arthropoda,Ampelisca sp,500m,3,0,440,0
+Sep,Arthropoda,Ampelisca sp,500m,4,0,160,0
+Sep,Arthropoda,Ampelisca sp,50m,1,1,410,2.4
+Sep,Arthropoda,Ampelisca sp,50m,2,0,110,0
+Sep,Arthropoda,Ampelisca sp,50m,3,0,90,0
+Sep,Arthropoda,Ampelisca sp,50m,4,0,280,0
+Sep,Arthropoda,Biancolina brassicacephala,2m,1,0,530,0
+Sep,Arthropoda,Biancolina brassicacephala,2m,2,0,1300,0
+Sep,Arthropoda,Biancolina brassicacephala,2m,3,0,1400,0
+Sep,Arthropoda,Biancolina brassicacephala,2m,4,0,1680,0
+Sep,Arthropoda,Biancolina brassicacephala,500m,1,2,160,12.5
+Sep,Arthropoda,Biancolina brassicacephala,500m,2,0,80,0
+Sep,Arthropoda,Biancolina brassicacephala,500m,3,0,440,0
+Sep,Arthropoda,Biancolina brassicacephala,500m,4,0,160,0
+Sep,Arthropoda,Biancolina brassicacephala,50m,1,0,410,0
+Sep,Arthropoda,Biancolina brassicacephala,50m,2,2,110,18.2
+Sep,Arthropoda,Biancolina brassicacephala,50m,3,0,90,0
+Sep,Arthropoda,Biancolina brassicacephala,50m,4,0,280,0
+Sep,Arthropoda,Carpias sp,2m,1,0,530,0
+Sep,Arthropoda,Carpias sp,2m,2,0,1300,0
+Sep,Arthropoda,Carpias sp,2m,3,0,1400,0
+Sep,Arthropoda,Carpias sp,2m,4,1,1680,0.6
+Sep,Arthropoda,Carpias sp,500m,1,4,160,25
+Sep,Arthropoda,Carpias sp,500m,2,0,80,0
+Sep,Arthropoda,Carpias sp,500m,3,1,440,2.3
+Sep,Arthropoda,Carpias sp,500m,4,4,160,25
+Sep,Arthropoda,Carpias sp,50m,1,68,410,165.9
+Sep,Arthropoda,Carpias sp,50m,2,0,110,0
+Sep,Arthropoda,Carpias sp,50m,3,5,90,55.6
+Sep,Arthropoda,Carpias sp,50m,4,5,280,17.9
+Sep,Arthropoda,Diptera (larva),2m,1,0,530,0
+Sep,Arthropoda,Diptera (larva),2m,2,0,1300,0
+Sep,Arthropoda,Diptera (larva),2m,3,0,1400,0
+Sep,Arthropoda,Diptera (larva),2m,4,0,1680,0
+Sep,Arthropoda,Diptera (larva),500m,1,0,160,0
+Sep,Arthropoda,Diptera (larva),500m,2,0,80,0
+Sep,Arthropoda,Diptera (larva),500m,3,0,440,0
+Sep,Arthropoda,Diptera (larva),500m,4,0,160,0
+Sep,Arthropoda,Diptera (larva),50m,1,0,410,0
+Sep,Arthropoda,Diptera (larva),50m,2,0,110,0
+Sep,Arthropoda,Diptera (larva),50m,3,1,90,11.1
+Sep,Arthropoda,Diptera (larva),50m,4,0,280,0
+Sep,Arthropoda,Latreutes fucorum,2m,1,0,530,0
+Sep,Arthropoda,Latreutes fucorum,2m,2,0,1300,0
+Sep,Arthropoda,Latreutes fucorum,2m,3,0,1400,0
+Sep,Arthropoda,Latreutes fucorum,2m,4,0,1680,0
+Sep,Arthropoda,Latreutes fucorum,500m,1,58,160,362.5
+Sep,Arthropoda,Latreutes fucorum,500m,2,53,80,662.5
+Sep,Arthropoda,Latreutes fucorum,500m,3,78,440,177.3
+Sep,Arthropoda,Latreutes fucorum,500m,4,49,160,306.3
+Sep,Arthropoda,Latreutes fucorum,50m,1,48,410,117.1
+Sep,Arthropoda,Latreutes fucorum,50m,2,14,110,127.3
+Sep,Arthropoda,Latreutes fucorum,50m,3,47,90,522.2
+Sep,Arthropoda,Latreutes fucorum,50m,4,55,280,196.4
+Sep,Arthropoda,Leander ternuicornis,2m,1,0,530,0
+Sep,Arthropoda,Leander ternuicornis,2m,2,0,1300,0
+Sep,Arthropoda,Leander ternuicornis,2m,3,0,1400,0
+Sep,Arthropoda,Leander ternuicornis,2m,4,0,1680,0
+Sep,Arthropoda,Leander ternuicornis,500m,1,1,160,6.3
+Sep,Arthropoda,Leander ternuicornis,500m,2,7,80,87.5
+Sep,Arthropoda,Leander ternuicornis,500m,3,3,440,6.8
+Sep,Arthropoda,Leander ternuicornis,500m,4,3,160,18.8
+Sep,Arthropoda,Leander ternuicornis,50m,1,4,410,9.8
+Sep,Arthropoda,Leander ternuicornis,50m,2,0,110,0
+Sep,Arthropoda,Leander ternuicornis,50m,3,5,90,55.6
+Sep,Arthropoda,Leander ternuicornis,50m,4,3,280,10.7
+Sep,Arthropoda,Nototropis minikoi,2m,1,0,530,0
+Sep,Arthropoda,Nototropis minikoi,2m,2,0,1300,0
+Sep,Arthropoda,Nototropis minikoi,2m,3,0,1400,0
+Sep,Arthropoda,Nototropis minikoi,2m,4,0,1680,0
+Sep,Arthropoda,Nototropis minikoi,500m,1,0,160,0
+Sep,Arthropoda,Nototropis minikoi,500m,2,0,80,0
+Sep,Arthropoda,Nototropis minikoi,500m,3,0,440,0
+Sep,Arthropoda,Nototropis minikoi,500m,4,0,160,0
+Sep,Arthropoda,Nototropis minikoi,50m,1,2,410,4.9
+Sep,Arthropoda,Nototropis minikoi,50m,2,0,110,0
+Sep,Arthropoda,Nototropis minikoi,50m,3,0,90,0
+Sep,Arthropoda,Nototropis minikoi,50m,4,0,280,0
+Sep,Arthropoda,Portunus sayi,2m,1,0,530,0
+Sep,Arthropoda,Portunus sayi,2m,2,0,1300,0
+Sep,Arthropoda,Portunus sayi,2m,3,0,1400,0
+Sep,Arthropoda,Portunus sayi,2m,4,0,1680,0
+Sep,Arthropoda,Portunus sayi,500m,1,2,160,12.5
+Sep,Arthropoda,Portunus sayi,500m,2,2,80,25
+Sep,Arthropoda,Portunus sayi,500m,3,3,440,6.8
+Sep,Arthropoda,Portunus sayi,500m,4,0,160,0
+Sep,Arthropoda,Portunus sayi,50m,1,3,410,7.3
+Sep,Arthropoda,Portunus sayi,50m,2,1,110,9.1
+Sep,Arthropoda,Portunus sayi,50m,3,1,90,11.1
+Sep,Arthropoda,Portunus sayi,50m,4,0,280,0
+Sep,Arthropoda,Probopyrinella latreuticola,2m,1,0,530,0
+Sep,Arthropoda,Probopyrinella latreuticola,2m,2,0,1300,0
+Sep,Arthropoda,Probopyrinella latreuticola,2m,3,0,1400,0
+Sep,Arthropoda,Probopyrinella latreuticola,2m,4,0,1680,0
+Sep,Arthropoda,Probopyrinella latreuticola,500m,1,4,160,25
+Sep,Arthropoda,Probopyrinella latreuticola,500m,2,1,80,12.5
+Sep,Arthropoda,Probopyrinella latreuticola,500m,3,0,440,0
+Sep,Arthropoda,Probopyrinella latreuticola,500m,4,0,160,0
+Sep,Arthropoda,Probopyrinella latreuticola,50m,1,1,410,2.4
+Sep,Arthropoda,Probopyrinella latreuticola,50m,2,0,110,0
+Sep,Arthropoda,Probopyrinella latreuticola,50m,3,2,90,22.2
+Sep,Arthropoda,Probopyrinella latreuticola,50m,4,0,280,0
+Sep,Arthropoda,Pycnogonidae,2m,1,0,530,0
+Sep,Arthropoda,Pycnogonidae,2m,2,0,1300,0
+Sep,Arthropoda,Pycnogonidae,2m,3,0,1400,0
+Sep,Arthropoda,Pycnogonidae,2m,4,0,1680,0
+Sep,Arthropoda,Pycnogonidae,500m,1,1,160,6.3
+Sep,Arthropoda,Pycnogonidae,500m,2,0,80,0
+Sep,Arthropoda,Pycnogonidae,500m,3,0,440,0
+Sep,Arthropoda,Pycnogonidae,500m,4,0,160,0
+Sep,Arthropoda,Pycnogonidae,50m,1,0,410,0
+Sep,Arthropoda,Pycnogonidae,50m,2,0,110,0
+Sep,Arthropoda,Pycnogonidae,50m,3,1,90,11.1
+Sep,Arthropoda,Pycnogonidae,50m,4,0,280,0
+Sep,Arthropoda,Sunamphitoe pelagica,2m,1,0,530,0
+Sep,Arthropoda,Sunamphitoe pelagica,2m,2,0,1300,0
+Sep,Arthropoda,Sunamphitoe pelagica,2m,3,0,1400,0
+Sep,Arthropoda,Sunamphitoe pelagica,2m,4,0,1680,0
+Sep,Arthropoda,Sunamphitoe pelagica,500m,1,0,160,0
+Sep,Arthropoda,Sunamphitoe pelagica,500m,2,1,80,12.5
+Sep,Arthropoda,Sunamphitoe pelagica,500m,3,3,440,6.8
+Sep,Arthropoda,Sunamphitoe pelagica,500m,4,1,160,6.3
+Sep,Arthropoda,Sunamphitoe pelagica,50m,1,0,410,0
+Sep,Arthropoda,Sunamphitoe pelagica,50m,2,0,110,0
+Sep,Arthropoda,Sunamphitoe pelagica,50m,3,3,90,33.3
+Sep,Arthropoda,Sunamphitoe pelagica,50m,4,4,280,14.3
+Sep,Arthropoda,Talitridae,2m,1,0,530,0
+Sep,Arthropoda,Talitridae,2m,2,1,1300,0.8
+Sep,Arthropoda,Talitridae,2m,3,2,1400,1.4
+Sep,Arthropoda,Talitridae,2m,4,0,1680,0
+Sep,Arthropoda,Talitridae,500m,1,0,160,0
+Sep,Arthropoda,Talitridae,500m,2,0,80,0
+Sep,Arthropoda,Talitridae,500m,3,0,440,0
+Sep,Arthropoda,Talitridae,500m,4,0,160,0
+Sep,Arthropoda,Talitridae,50m,1,0,410,0
+Sep,Arthropoda,Talitridae,50m,2,0,110,0
+Sep,Arthropoda,Talitridae,50m,3,0,90,0
+Sep,Arthropoda,Talitridae,50m,4,0,280,0
+Sep,Chordata,Abudefduf saxatilis,2m,1,0,530,0
+Sep,Chordata,Abudefduf saxatilis,2m,2,0,1300,0
+Sep,Chordata,Abudefduf saxatilis,2m,3,0,1400,0
+Sep,Chordata,Abudefduf saxatilis,2m,4,0,1680,0
+Sep,Chordata,Abudefduf saxatilis,500m,1,1,160,6.3
+Sep,Chordata,Abudefduf saxatilis,500m,2,0,80,0
+Sep,Chordata,Abudefduf saxatilis,500m,3,0,440,0
+Sep,Chordata,Abudefduf saxatilis,500m,4,0,160,0
+Sep,Chordata,Abudefduf saxatilis,50m,1,0,410,0
+Sep,Chordata,Abudefduf saxatilis,50m,2,0,110,0
+Sep,Chordata,Abudefduf saxatilis,50m,3,0,90,0
+Sep,Chordata,Abudefduf saxatilis,50m,4,0,280,0
+Sep,Chordata,Carangoides bartholomaei,2m,1,0,530,0
+Sep,Chordata,Carangoides bartholomaei,2m,2,0,1300,0
+Sep,Chordata,Carangoides bartholomaei,2m,3,0,1400,0
+Sep,Chordata,Carangoides bartholomaei,2m,4,0,1680,0
+Sep,Chordata,Carangoides bartholomaei,500m,1,0,160,0
+Sep,Chordata,Carangoides bartholomaei,500m,2,0,80,0
+Sep,Chordata,Carangoides bartholomaei,500m,3,0,440,0
+Sep,Chordata,Carangoides bartholomaei,500m,4,0,160,0
+Sep,Chordata,Carangoides bartholomaei,50m,1,0,410,0
+Sep,Chordata,Carangoides bartholomaei,50m,2,0,110,0
+Sep,Chordata,Carangoides bartholomaei,50m,3,0,90,0
+Sep,Chordata,Carangoides bartholomaei,50m,4,0,280,0
+Sep,Chordata,Histrio histrio,2m,1,0,530,0
+Sep,Chordata,Histrio histrio,2m,2,0,1300,0
+Sep,Chordata,Histrio histrio,2m,3,0,1400,0
+Sep,Chordata,Histrio histrio,2m,4,0,1680,0
+Sep,Chordata,Histrio histrio,500m,1,0,160,0
+Sep,Chordata,Histrio histrio,500m,2,0,80,0
+Sep,Chordata,Histrio histrio,500m,3,0,440,0
+Sep,Chordata,Histrio histrio,500m,4,0,160,0
+Sep,Chordata,Histrio histrio,50m,1,0,410,0
+Sep,Chordata,Histrio histrio,50m,2,0,110,0
+Sep,Chordata,Histrio histrio,50m,3,0,90,0
+Sep,Chordata,Histrio histrio,50m,4,0,280,0
+Sep,Chordata,Stephanolepis hispidus,2m,1,0,530,0
+Sep,Chordata,Stephanolepis hispidus,2m,2,0,1300,0
+Sep,Chordata,Stephanolepis hispidus,2m,3,0,1400,0
+Sep,Chordata,Stephanolepis hispidus,2m,4,0,1680,0
+Sep,Chordata,Stephanolepis hispidus,500m,1,0,160,0
+Sep,Chordata,Stephanolepis hispidus,500m,2,0,80,0
+Sep,Chordata,Stephanolepis hispidus,500m,3,0,440,0
+Sep,Chordata,Stephanolepis hispidus,500m,4,0,160,0
+Sep,Chordata,Stephanolepis hispidus,50m,1,0,410,0
+Sep,Chordata,Stephanolepis hispidus,50m,2,0,110,0
+Sep,Chordata,Stephanolepis hispidus,50m,3,0,90,0
+Sep,Chordata,Stephanolepis hispidus,50m,4,0,280,0
+Sep,Chordata,Syngnathus pelagicus,2m,1,0,530,0
+Sep,Chordata,Syngnathus pelagicus,2m,2,0,1300,0
+Sep,Chordata,Syngnathus pelagicus,2m,3,0,1400,0
+Sep,Chordata,Syngnathus pelagicus,2m,4,0,1680,0
+Sep,Chordata,Syngnathus pelagicus,500m,1,0,160,0
+Sep,Chordata,Syngnathus pelagicus,500m,2,0,80,0
+Sep,Chordata,Syngnathus pelagicus,500m,3,0,440,0
+Sep,Chordata,Syngnathus pelagicus,500m,4,0,160,0
+Sep,Chordata,Syngnathus pelagicus,50m,1,0,410,0
+Sep,Chordata,Syngnathus pelagicus,50m,2,0,110,0
+Sep,Chordata,Syngnathus pelagicus,50m,3,0,90,0
+Sep,Chordata,Syngnathus pelagicus,50m,4,0,280,0
+Sep,Mollusca,Litiopa melanostoma,2m,1,2,530,3.8
+Sep,Mollusca,Litiopa melanostoma,2m,2,1,1300,0.8
+Sep,Mollusca,Litiopa melanostoma,2m,3,0,1400,0
+Sep,Mollusca,Litiopa melanostoma,2m,4,0,1680,0
+Sep,Mollusca,Litiopa melanostoma,500m,1,1,160,6.3
+Sep,Mollusca,Litiopa melanostoma,500m,2,6,80,75
+Sep,Mollusca,Litiopa melanostoma,500m,3,24,440,54.5
+Sep,Mollusca,Litiopa melanostoma,500m,4,1,160,6.3
+Sep,Mollusca,Litiopa melanostoma,50m,1,19,410,46.3
+Sep,Mollusca,Litiopa melanostoma,50m,2,2,110,18.2
+Sep,Mollusca,Litiopa melanostoma,50m,3,14,90,155.6
+Sep,Mollusca,Litiopa melanostoma,50m,4,18,280,64.3
+Sep,Mollusca,Nudibranchia,2m,1,0,530,0
+Sep,Mollusca,Nudibranchia,2m,2,0,1300,0
+Sep,Mollusca,Nudibranchia,2m,3,0,1400,0
+Sep,Mollusca,Nudibranchia,2m,4,0,1680,0
+Sep,Mollusca,Nudibranchia,500m,1,0,160,0
+Sep,Mollusca,Nudibranchia,500m,2,0,80,0
+Sep,Mollusca,Nudibranchia,500m,3,0,440,0
+Sep,Mollusca,Nudibranchia,500m,4,1,160,6.3
+Sep,Mollusca,Nudibranchia,50m,1,0,410,0
+Sep,Mollusca,Nudibranchia,50m,2,0,110,0
+Sep,Mollusca,Nudibranchia,50m,3,0,90,0
+Sep,Mollusca,Nudibranchia,50m,4,0,280,0
+Sep,Nemathelminthes,Nematoda,2m,1,0,530,0
+Sep,Nemathelminthes,Nematoda,2m,2,1,1300,0.8
+Sep,Nemathelminthes,Nematoda,2m,3,0,1400,0
+Sep,Nemathelminthes,Nematoda,2m,4,0,1680,0
+Sep,Nemathelminthes,Nematoda,500m,1,0,160,0
+Sep,Nemathelminthes,Nematoda,500m,2,0,80,0
+Sep,Nemathelminthes,Nematoda,500m,3,0,440,0
+Sep,Nemathelminthes,Nematoda,500m,4,0,160,0
+Sep,Nemathelminthes,Nematoda,50m,1,0,410,0
+Sep,Nemathelminthes,Nematoda,50m,2,0,110,0
+Sep,Nemathelminthes,Nematoda,50m,3,0,90,0
+Sep,Nemathelminthes,Nematoda,50m,4,1,280,3.6
+Sep,Nemertea,Nemertea,2m,1,0,530,0
+Sep,Nemertea,Nemertea,2m,2,0,1300,0
+Sep,Nemertea,Nemertea,2m,3,0,1400,0
+Sep,Nemertea,Nemertea,2m,4,0,1680,0
+Sep,Nemertea,Nemertea,500m,1,1,160,6.3
+Sep,Nemertea,Nemertea,500m,2,0,80,0
+Sep,Nemertea,Nemertea,500m,3,0,440,0
+Sep,Nemertea,Nemertea,500m,4,0,160,0
+Sep,Nemertea,Nemertea,50m,1,0,410,0
+Sep,Nemertea,Nemertea,50m,2,0,110,0
+Sep,Nemertea,Nemertea,50m,3,0,90,0
+Sep,Nemertea,Nemertea,50m,4,0,280,0
+Oct,Annelida,Platynereis dumerilii,2m,1,315,693,454.5
+Oct,Annelida,Platynereis dumerilii,2m,2,26,170,152.9
+Oct,Annelida,Platynereis dumerilii,2m,3,11,685,16.1
+Oct,Annelida,Platynereis dumerilii,2m,4,81,1905,42.5
+Oct,Annelida,Platynereis dumerilii,500m,1,471,310,1519.4
+Oct,Annelida,Platynereis dumerilii,500m,2,228,275,829.1
+Oct,Annelida,Platynereis dumerilii,500m,3,362,592,611.5
+Oct,Annelida,Platynereis dumerilii,500m,4,239,480,497.9
+Oct,Annelida,Platynereis dumerilii,50m,1,192,213,901.4
+Oct,Annelida,Platynereis dumerilii,50m,2,171,395,432.9
+Oct,Annelida,Platynereis dumerilii,50m,3,270,310,871
+Oct,Annelida,Platynereis dumerilii,50m,4,101,505,200
+Oct,Arthropoda,Biancolina brassicacephala,2m,1,11,693,15.9
+Oct,Arthropoda,Biancolina brassicacephala,2m,2,0,170,0
+Oct,Arthropoda,Biancolina brassicacephala,2m,3,1,685,1.5
+Oct,Arthropoda,Biancolina brassicacephala,2m,4,0,1905,0
+Oct,Arthropoda,Biancolina brassicacephala,500m,1,10,310,32.3
+Oct,Arthropoda,Biancolina brassicacephala,500m,2,5,275,18.2
+Oct,Arthropoda,Biancolina brassicacephala,500m,3,9,592,15.2
+Oct,Arthropoda,Biancolina brassicacephala,500m,4,8,480,16.7
+Oct,Arthropoda,Biancolina brassicacephala,50m,1,3,213,14.1
+Oct,Arthropoda,Biancolina brassicacephala,50m,2,7,395,17.7
+Oct,Arthropoda,Biancolina brassicacephala,50m,3,4,310,12.9
+Oct,Arthropoda,Biancolina brassicacephala,50m,4,1,505,2
+Oct,Arthropoda,Carpias sp,2m,1,22,693,31.7
+Oct,Arthropoda,Carpias sp,2m,2,0,170,0
+Oct,Arthropoda,Carpias sp,2m,3,2,685,2.9
+Oct,Arthropoda,Carpias sp,2m,4,2,1905,1
+Oct,Arthropoda,Carpias sp,500m,1,56,310,180.6
+Oct,Arthropoda,Carpias sp,500m,2,10,275,36.4
+Oct,Arthropoda,Carpias sp,500m,3,10,592,16.9
+Oct,Arthropoda,Carpias sp,500m,4,8,480,16.7
+Oct,Arthropoda,Carpias sp,50m,1,18,213,84.5
+Oct,Arthropoda,Carpias sp,50m,2,45,395,113.9
+Oct,Arthropoda,Carpias sp,50m,3,25,310,80.6
+Oct,Arthropoda,Carpias sp,50m,4,1,505,2
+Oct,Arthropoda,Hyale sp,2m,1,0,693,0
+Oct,Arthropoda,Hyale sp,2m,2,0,170,0
+Oct,Arthropoda,Hyale sp,2m,3,0,685,0
+Oct,Arthropoda,Hyale sp,2m,4,0,1905,0
+Oct,Arthropoda,Hyale sp,500m,1,2,310,6.5
+Oct,Arthropoda,Hyale sp,500m,2,3,275,10.9
+Oct,Arthropoda,Hyale sp,500m,3,4,592,6.8
+Oct,Arthropoda,Hyale sp,500m,4,2,480,4.2
+Oct,Arthropoda,Hyale sp,50m,1,0,213,0
+Oct,Arthropoda,Hyale sp,50m,2,1,395,2.5
+Oct,Arthropoda,Hyale sp,50m,3,0,310,0
+Oct,Arthropoda,Hyale sp,50m,4,0,505,0
+Oct,Arthropoda,Latreutes fucorum,2m,1,145,693,209.2
+Oct,Arthropoda,Latreutes fucorum,2m,2,4,170,23.5
+Oct,Arthropoda,Latreutes fucorum,2m,3,3,685,4.4
+Oct,Arthropoda,Latreutes fucorum,2m,4,2,1905,1
+Oct,Arthropoda,Latreutes fucorum,500m,1,101,310,325.8
+Oct,Arthropoda,Latreutes fucorum,500m,2,82,275,298.2
+Oct,Arthropoda,Latreutes fucorum,500m,3,70,592,118.2
+Oct,Arthropoda,Latreutes fucorum,500m,4,51,480,106.3
+Oct,Arthropoda,Latreutes fucorum,50m,1,50,213,234.7
+Oct,Arthropoda,Latreutes fucorum,50m,2,93,395,235.4
+Oct,Arthropoda,Latreutes fucorum,50m,3,30,310,96.8
+Oct,Arthropoda,Latreutes fucorum,50m,4,17,505,33.7
+Oct,Arthropoda,Leander ternuicornis,2m,1,2,693,2.9
+Oct,Arthropoda,Leander ternuicornis,2m,2,0,170,0
+Oct,Arthropoda,Leander ternuicornis,2m,3,0,685,0
+Oct,Arthropoda,Leander ternuicornis,2m,4,0,1905,0
+Oct,Arthropoda,Leander ternuicornis,500m,1,2,310,6.5
+Oct,Arthropoda,Leander ternuicornis,500m,2,15,275,54.5
+Oct,Arthropoda,Leander ternuicornis,500m,3,7,592,11.8
+Oct,Arthropoda,Leander ternuicornis,500m,4,9,480,18.8
+Oct,Arthropoda,Leander ternuicornis,50m,1,1,213,4.7
+Oct,Arthropoda,Leander ternuicornis,50m,2,12,395,30.4
+Oct,Arthropoda,Leander ternuicornis,50m,3,1,310,3.2
+Oct,Arthropoda,Leander ternuicornis,50m,4,8,505,15.8
+Oct,Arthropoda,Nototropis minikoi,2m,1,0,693,0
+Oct,Arthropoda,Nototropis minikoi,2m,2,9,170,52.9
+Oct,Arthropoda,Nototropis minikoi,2m,3,6,685,8.8
+Oct,Arthropoda,Nototropis minikoi,2m,4,2,1905,1
+Oct,Arthropoda,Nototropis minikoi,500m,1,0,310,0
+Oct,Arthropoda,Nototropis minikoi,500m,2,5,275,18.2
+Oct,Arthropoda,Nototropis minikoi,500m,3,0,592,0
+Oct,Arthropoda,Nototropis minikoi,500m,4,0,480,0
+Oct,Arthropoda,Nototropis minikoi,50m,1,3,213,14.1
+Oct,Arthropoda,Nototropis minikoi,50m,2,5,395,12.7
+Oct,Arthropoda,Nototropis minikoi,50m,3,5,310,16.1
+Oct,Arthropoda,Nototropis minikoi,50m,4,2,505,4
+Oct,Arthropoda,Portunus sayi,2m,1,5,693,7.2
+Oct,Arthropoda,Portunus sayi,2m,2,0,170,0
+Oct,Arthropoda,Portunus sayi,2m,3,0,685,0
+Oct,Arthropoda,Portunus sayi,2m,4,0,1905,0
+Oct,Arthropoda,Portunus sayi,500m,1,3,310,9.7
+Oct,Arthropoda,Portunus sayi,500m,2,1,275,3.6
+Oct,Arthropoda,Portunus sayi,500m,3,0,592,0
+Oct,Arthropoda,Portunus sayi,500m,4,0,480,0
+Oct,Arthropoda,Portunus sayi,50m,1,2,213,9.4
+Oct,Arthropoda,Portunus sayi,50m,2,6,395,15.2
+Oct,Arthropoda,Portunus sayi,50m,3,3,310,9.7
+Oct,Arthropoda,Portunus sayi,50m,4,0,505,0
+Oct,Arthropoda,Probopyrinella latreuticola,2m,1,14,693,20.2
+Oct,Arthropoda,Probopyrinella latreuticola,2m,2,1,170,5.9
+Oct,Arthropoda,Probopyrinella latreuticola,2m,3,0,685,0
+Oct,Arthropoda,Probopyrinella latreuticola,2m,4,1,1905,0.5
+Oct,Arthropoda,Probopyrinella latreuticola,500m,1,7,310,22.6
+Oct,Arthropoda,Probopyrinella latreuticola,500m,2,2,275,7.3
+Oct,Arthropoda,Probopyrinella latreuticola,500m,3,0,592,0
+Oct,Arthropoda,Probopyrinella latreuticola,500m,4,4,480,8.3
+Oct,Arthropoda,Probopyrinella latreuticola,50m,1,7,213,32.9
+Oct,Arthropoda,Probopyrinella latreuticola,50m,2,7,395,17.7
+Oct,Arthropoda,Probopyrinella latreuticola,50m,3,0,310,0
+Oct,Arthropoda,Probopyrinella latreuticola,50m,4,0,505,0
+Oct,Arthropoda,Pycnogonidae,2m,1,7,693,10.1
+Oct,Arthropoda,Pycnogonidae,2m,2,0,170,0
+Oct,Arthropoda,Pycnogonidae,2m,3,0,685,0
+Oct,Arthropoda,Pycnogonidae,2m,4,1,1905,0.5
+Oct,Arthropoda,Pycnogonidae,500m,1,1,310,3.2
+Oct,Arthropoda,Pycnogonidae,500m,2,1,275,3.6
+Oct,Arthropoda,Pycnogonidae,500m,3,3,592,5.1
+Oct,Arthropoda,Pycnogonidae,500m,4,1,480,2.1
+Oct,Arthropoda,Pycnogonidae,50m,1,2,213,9.4
+Oct,Arthropoda,Pycnogonidae,50m,2,3,395,7.6
+Oct,Arthropoda,Pycnogonidae,50m,3,1,310,3.2
+Oct,Arthropoda,Pycnogonidae,50m,4,1,505,2
+Oct,Arthropoda,Sunamphitoe pelagica,2m,1,0,693,0
+Oct,Arthropoda,Sunamphitoe pelagica,2m,2,0,170,0
+Oct,Arthropoda,Sunamphitoe pelagica,2m,3,0,685,0
+Oct,Arthropoda,Sunamphitoe pelagica,2m,4,0,1905,0
+Oct,Arthropoda,Sunamphitoe pelagica,500m,1,0,310,0
+Oct,Arthropoda,Sunamphitoe pelagica,500m,2,2,275,7.3
+Oct,Arthropoda,Sunamphitoe pelagica,500m,3,0,592,0
+Oct,Arthropoda,Sunamphitoe pelagica,500m,4,0,480,0
+Oct,Arthropoda,Sunamphitoe pelagica,50m,1,0,213,0
+Oct,Arthropoda,Sunamphitoe pelagica,50m,2,0,395,0
+Oct,Arthropoda,Sunamphitoe pelagica,50m,3,0,310,0
+Oct,Arthropoda,Sunamphitoe pelagica,50m,4,0,505,0
+Oct,Arthropoda,Talitridae,2m,1,0,693,0
+Oct,Arthropoda,Talitridae,2m,2,0,170,0
+Oct,Arthropoda,Talitridae,2m,3,0,685,0
+Oct,Arthropoda,Talitridae,2m,4,0,1905,0
+Oct,Arthropoda,Talitridae,500m,1,0,310,0
+Oct,Arthropoda,Talitridae,500m,2,0,275,0
+Oct,Arthropoda,Talitridae,500m,3,0,592,0
+Oct,Arthropoda,Talitridae,500m,4,0,480,0
+Oct,Arthropoda,Talitridae,50m,1,0,213,0
+Oct,Arthropoda,Talitridae,50m,2,3,395,7.6
+Oct,Arthropoda,Talitridae,50m,3,0,310,0
+Oct,Arthropoda,Talitridae,50m,4,0,505,0
+Oct,Arthropoda,Zeuxo sp,2m,1,0,693,0
+Oct,Arthropoda,Zeuxo sp,2m,2,0,170,0
+Oct,Arthropoda,Zeuxo sp,2m,3,0,685,0
+Oct,Arthropoda,Zeuxo sp,2m,4,0,1905,0
+Oct,Arthropoda,Zeuxo sp,500m,1,0,310,0
+Oct,Arthropoda,Zeuxo sp,500m,2,0,275,0
+Oct,Arthropoda,Zeuxo sp,500m,3,0,592,0
+Oct,Arthropoda,Zeuxo sp,500m,4,0,480,0
+Oct,Arthropoda,Zeuxo sp,50m,1,0,213,0
+Oct,Arthropoda,Zeuxo sp,50m,2,1,395,2.5
+Oct,Arthropoda,Zeuxo sp,50m,3,0,310,0
+Oct,Arthropoda,Zeuxo sp,50m,4,0,505,0
+Oct,Chordata,Abudefduf saxatilis,2m,1,0,693,0
+Oct,Chordata,Abudefduf saxatilis,2m,2,0,170,0
+Oct,Chordata,Abudefduf saxatilis,2m,3,0,685,0
+Oct,Chordata,Abudefduf saxatilis,2m,4,0,1905,0
+Oct,Chordata,Abudefduf saxatilis,500m,1,0,310,0
+Oct,Chordata,Abudefduf saxatilis,500m,2,0,275,0
+Oct,Chordata,Abudefduf saxatilis,500m,3,0,592,0
+Oct,Chordata,Abudefduf saxatilis,500m,4,0,480,0
+Oct,Chordata,Abudefduf saxatilis,50m,1,0,213,0
+Oct,Chordata,Abudefduf saxatilis,50m,2,0,395,0
+Oct,Chordata,Abudefduf saxatilis,50m,3,0,310,0
+Oct,Chordata,Abudefduf saxatilis,50m,4,0,505,0
+Oct,Chordata,Carangoides bartholomaei,2m,1,0,693,0
+Oct,Chordata,Carangoides bartholomaei,2m,2,0,170,0
+Oct,Chordata,Carangoides bartholomaei,2m,3,0,685,0
+Oct,Chordata,Carangoides bartholomaei,2m,4,0,1905,0
+Oct,Chordata,Carangoides bartholomaei,500m,1,0,310,0
+Oct,Chordata,Carangoides bartholomaei,500m,2,0,275,0
+Oct,Chordata,Carangoides bartholomaei,500m,3,0,592,0
+Oct,Chordata,Carangoides bartholomaei,500m,4,0,480,0
+Oct,Chordata,Carangoides bartholomaei,50m,1,0,213,0
+Oct,Chordata,Carangoides bartholomaei,50m,2,0,395,0
+Oct,Chordata,Carangoides bartholomaei,50m,3,0,310,0
+Oct,Chordata,Carangoides bartholomaei,50m,4,0,505,0
+Oct,Chordata,Histrio histrio,2m,1,0,693,0
+Oct,Chordata,Histrio histrio,2m,2,0,170,0
+Oct,Chordata,Histrio histrio,2m,3,0,685,0
+Oct,Chordata,Histrio histrio,2m,4,0,1905,0
+Oct,Chordata,Histrio histrio,500m,1,0,310,0
+Oct,Chordata,Histrio histrio,500m,2,0,275,0
+Oct,Chordata,Histrio histrio,500m,3,0,592,0
+Oct,Chordata,Histrio histrio,500m,4,0,480,0
+Oct,Chordata,Histrio histrio,50m,1,0,213,0
+Oct,Chordata,Histrio histrio,50m,2,0,395,0
+Oct,Chordata,Histrio histrio,50m,3,0,310,0
+Oct,Chordata,Histrio histrio,50m,4,0,505,0
+Oct,Chordata,Stephanolepis hispidus,2m,1,0,693,0
+Oct,Chordata,Stephanolepis hispidus,2m,2,0,170,0
+Oct,Chordata,Stephanolepis hispidus,2m,3,0,685,0
+Oct,Chordata,Stephanolepis hispidus,2m,4,0,1905,0
+Oct,Chordata,Stephanolepis hispidus,500m,1,0,310,0
+Oct,Chordata,Stephanolepis hispidus,500m,2,0,275,0
+Oct,Chordata,Stephanolepis hispidus,500m,3,0,592,0
+Oct,Chordata,Stephanolepis hispidus,500m,4,0,480,0
+Oct,Chordata,Stephanolepis hispidus,50m,1,0,213,0
+Oct,Chordata,Stephanolepis hispidus,50m,2,0,395,0
+Oct,Chordata,Stephanolepis hispidus,50m,3,0,310,0
+Oct,Chordata,Stephanolepis hispidus,50m,4,0,505,0
+Oct,Chordata,Syngnathus pelagicus,2m,1,0,693,0
+Oct,Chordata,Syngnathus pelagicus,2m,2,0,170,0
+Oct,Chordata,Syngnathus pelagicus,2m,3,0,685,0
+Oct,Chordata,Syngnathus pelagicus,2m,4,0,1905,0
+Oct,Chordata,Syngnathus pelagicus,500m,1,0,310,0
+Oct,Chordata,Syngnathus pelagicus,500m,2,0,275,0
+Oct,Chordata,Syngnathus pelagicus,500m,3,0,592,0
+Oct,Chordata,Syngnathus pelagicus,500m,4,0,480,0
+Oct,Chordata,Syngnathus pelagicus,50m,1,0,213,0
+Oct,Chordata,Syngnathus pelagicus,50m,2,0,395,0
+Oct,Chordata,Syngnathus pelagicus,50m,3,0,310,0
+Oct,Chordata,Syngnathus pelagicus,50m,4,0,505,0
+Oct,Mollusca,Bivalvia,2m,1,0,693,0
+Oct,Mollusca,Bivalvia,2m,2,0,170,0
+Oct,Mollusca,Bivalvia,2m,3,0,685,0
+Oct,Mollusca,Bivalvia,2m,4,0,1905,0
+Oct,Mollusca,Bivalvia,500m,1,0,310,0
+Oct,Mollusca,Bivalvia,500m,2,2,275,7.3
+Oct,Mollusca,Bivalvia,500m,3,0,592,0
+Oct,Mollusca,Bivalvia,500m,4,0,480,0
+Oct,Mollusca,Bivalvia,50m,1,0,213,0
+Oct,Mollusca,Bivalvia,50m,2,0,395,0
+Oct,Mollusca,Bivalvia,50m,3,0,310,0
+Oct,Mollusca,Bivalvia,50m,4,0,505,0
+Oct,Mollusca,Litiopa melanostoma,2m,1,82,693,118.3
+Oct,Mollusca,Litiopa melanostoma,2m,2,0,170,0
+Oct,Mollusca,Litiopa melanostoma,2m,3,7,685,10.2
+Oct,Mollusca,Litiopa melanostoma,2m,4,0,1905,0
+Oct,Mollusca,Litiopa melanostoma,500m,1,48,310,154.8
+Oct,Mollusca,Litiopa melanostoma,500m,2,37,275,134.5
+Oct,Mollusca,Litiopa melanostoma,500m,3,41,592,69.3
+Oct,Mollusca,Litiopa melanostoma,500m,4,45,480,93.8
+Oct,Mollusca,Litiopa melanostoma,50m,1,8,213,37.6
+Oct,Mollusca,Litiopa melanostoma,50m,2,28,395,70.9
+Oct,Mollusca,Litiopa melanostoma,50m,3,82,310,264.5
+Oct,Mollusca,Litiopa melanostoma,50m,4,84,505,166.3
+Oct,Mollusca,Scyllaea pelagica,2m,1,3,693,4.3
+Oct,Mollusca,Scyllaea pelagica,2m,2,0,170,0
+Oct,Mollusca,Scyllaea pelagica,2m,3,0,685,0
+Oct,Mollusca,Scyllaea pelagica,2m,4,0,1905,0
+Oct,Mollusca,Scyllaea pelagica,500m,1,1,310,3.2
+Oct,Mollusca,Scyllaea pelagica,500m,2,0,275,0
+Oct,Mollusca,Scyllaea pelagica,500m,3,1,592,1.7
+Oct,Mollusca,Scyllaea pelagica,500m,4,1,480,2.1
+Oct,Mollusca,Scyllaea pelagica,50m,1,2,213,9.4
+Oct,Mollusca,Scyllaea pelagica,50m,2,0,395,0
+Oct,Mollusca,Scyllaea pelagica,50m,3,0,310,0
+Oct,Mollusca,Scyllaea pelagica,50m,4,0,505,0
+Oct,Nemathelminthes,Nematoda,2m,1,0,693,0
+Oct,Nemathelminthes,Nematoda,2m,2,1,170,5.9
+Oct,Nemathelminthes,Nematoda,2m,3,0,685,0
+Oct,Nemathelminthes,Nematoda,2m,4,0,1905,0
+Oct,Nemathelminthes,Nematoda,500m,1,0,310,0
+Oct,Nemathelminthes,Nematoda,500m,2,0,275,0
+Oct,Nemathelminthes,Nematoda,500m,3,0,592,0
+Oct,Nemathelminthes,Nematoda,500m,4,1,480,2.1
+Oct,Nemathelminthes,Nematoda,50m,1,0,213,0
+Oct,Nemathelminthes,Nematoda,50m,2,0,395,0
+Oct,Nemathelminthes,Nematoda,50m,3,0,310,0
+Oct,Nemathelminthes,Nematoda,50m,4,0,505,0
+Oct,Nemertea,Nemertea,2m,1,3,693,4.3
+Oct,Nemertea,Nemertea,2m,2,0,170,0
+Oct,Nemertea,Nemertea,2m,3,0,685,0
+Oct,Nemertea,Nemertea,2m,4,0,1905,0
+Oct,Nemertea,Nemertea,500m,1,2,310,6.5
+Oct,Nemertea,Nemertea,500m,2,0,275,0
+Oct,Nemertea,Nemertea,500m,3,8,592,13.5
+Oct,Nemertea,Nemertea,500m,4,9,480,18.8
+Oct,Nemertea,Nemertea,50m,1,1,213,4.7
+Oct,Nemertea,Nemertea,50m,2,0,395,0
+Oct,Nemertea,Nemertea,50m,3,4,310,12.9
+Oct,Nemertea,Nemertea,50m,4,5,505,9.9
+Oct,Sipuncula,Sipinculid,2m,1,1,693,1.4
+Oct,Sipuncula,Sipinculid,2m,2,0,170,0
+Oct,Sipuncula,Sipinculid,2m,3,0,685,0
+Oct,Sipuncula,Sipinculid,2m,4,1,1905,0.5
+Oct,Sipuncula,Sipinculid,500m,1,0,310,0
+Oct,Sipuncula,Sipinculid,500m,2,2,275,7.3
+Oct,Sipuncula,Sipinculid,500m,3,0,592,0
+Oct,Sipuncula,Sipinculid,500m,4,0,480,0
+Oct,Sipuncula,Sipinculid,50m,1,0,213,0
+Oct,Sipuncula,Sipinculid,50m,2,0,395,0
+Oct,Sipuncula,Sipinculid,50m,3,0,310,0
+Oct,Sipuncula,Sipinculid,50m,4,0,505,0
+Nov,Annelida,Platynereis dumerilii,2m,1,307,179,1715.1
+Nov,Annelida,Platynereis dumerilii,2m,2,119,195,610.3
+Nov,Annelida,Platynereis dumerilii,2m,3,76,152,500
+Nov,Annelida,Platynereis dumerilii,2m,4,127,63,2015.9
+Nov,Annelida,Platynereis dumerilii,500m,1,290,86,3372.1
+Nov,Annelida,Platynereis dumerilii,500m,2,70,185,378.4
+Nov,Annelida,Platynereis dumerilii,500m,3,96,161,596.3
+Nov,Annelida,Platynereis dumerilii,500m,4,87,161,540.4
+Nov,Annelida,Platynereis dumerilii,50m,1,71,62,1145.2
+Nov,Annelida,Platynereis dumerilii,50m,2,33,96,343.8
+Nov,Annelida,Platynereis dumerilii,50m,3,70,183,382.5
+Nov,Annelida,Platynereis dumerilii,50m,4,58,88,659.1
+Nov,Arthropoda,Ampelisca sp,2m,1,0,179,0
+Nov,Arthropoda,Ampelisca sp,2m,2,0,195,0
+Nov,Arthropoda,Ampelisca sp,2m,3,0,152,0
+Nov,Arthropoda,Ampelisca sp,2m,4,1,63,15.9
+Nov,Arthropoda,Ampelisca sp,500m,1,0,86,0
+Nov,Arthropoda,Ampelisca sp,500m,2,0,185,0
+Nov,Arthropoda,Ampelisca sp,500m,3,0,161,0
+Nov,Arthropoda,Ampelisca sp,500m,4,0,161,0
+Nov,Arthropoda,Ampelisca sp,50m,1,0,62,0
+Nov,Arthropoda,Ampelisca sp,50m,2,0,96,0
+Nov,Arthropoda,Ampelisca sp,50m,3,0,183,0
+Nov,Arthropoda,Ampelisca sp,50m,4,0,88,0
+Nov,Arthropoda,Biancolina brassicacephala,2m,1,34,179,189.9
+Nov,Arthropoda,Biancolina brassicacephala,2m,2,9,195,46.2
+Nov,Arthropoda,Biancolina brassicacephala,2m,3,6,152,39.5
+Nov,Arthropoda,Biancolina brassicacephala,2m,4,3,63,47.6
+Nov,Arthropoda,Biancolina brassicacephala,500m,1,5,86,58.1
+Nov,Arthropoda,Biancolina brassicacephala,500m,2,0,185,0
+Nov,Arthropoda,Biancolina brassicacephala,500m,3,2,161,12.4
+Nov,Arthropoda,Biancolina brassicacephala,500m,4,1,161,6.2
+Nov,Arthropoda,Biancolina brassicacephala,50m,1,1,62,16.1
+Nov,Arthropoda,Biancolina brassicacephala,50m,2,1,96,10.4
+Nov,Arthropoda,Biancolina brassicacephala,50m,3,5,183,27.3
+Nov,Arthropoda,Biancolina brassicacephala,50m,4,4,88,45.5
+Nov,Arthropoda,Carpias sp,2m,1,38,179,212.3
+Nov,Arthropoda,Carpias sp,2m,2,6,195,30.8
+Nov,Arthropoda,Carpias sp,2m,3,1,152,6.6
+Nov,Arthropoda,Carpias sp,2m,4,10,63,158.7
+Nov,Arthropoda,Carpias sp,500m,1,64,86,744.2
+Nov,Arthropoda,Carpias sp,500m,2,8,185,43.2
+Nov,Arthropoda,Carpias sp,500m,3,8,161,49.7
+Nov,Arthropoda,Carpias sp,500m,4,10,161,62.1
+Nov,Arthropoda,Carpias sp,50m,1,16,62,258.1
+Nov,Arthropoda,Carpias sp,50m,2,9,96,93.8
+Nov,Arthropoda,Carpias sp,50m,3,12,183,65.6
+Nov,Arthropoda,Carpias sp,50m,4,12,88,136.4
+Nov,Arthropoda,Discias atlanticus,2m,1,0,179,0
+Nov,Arthropoda,Discias atlanticus,2m,2,0,195,0
+Nov,Arthropoda,Discias atlanticus,2m,3,0,152,0
+Nov,Arthropoda,Discias atlanticus,2m,4,1,63,15.9
+Nov,Arthropoda,Discias atlanticus,500m,1,0,86,0
+Nov,Arthropoda,Discias atlanticus,500m,2,0,185,0
+Nov,Arthropoda,Discias atlanticus,500m,3,0,161,0
+Nov,Arthropoda,Discias atlanticus,500m,4,0,161,0
+Nov,Arthropoda,Discias atlanticus,50m,1,0,62,0
+Nov,Arthropoda,Discias atlanticus,50m,2,0,96,0
+Nov,Arthropoda,Discias atlanticus,50m,3,0,183,0
+Nov,Arthropoda,Discias atlanticus,50m,4,1,88,11.4
+Nov,Arthropoda,Hyale sp,2m,1,17,179,95
+Nov,Arthropoda,Hyale sp,2m,2,1,195,5.1
+Nov,Arthropoda,Hyale sp,2m,3,5,152,32.9
+Nov,Arthropoda,Hyale sp,2m,4,12,63,190.5
+Nov,Arthropoda,Hyale sp,500m,1,0,86,0
+Nov,Arthropoda,Hyale sp,500m,2,0,185,0
+Nov,Arthropoda,Hyale sp,500m,3,0,161,0
+Nov,Arthropoda,Hyale sp,500m,4,0,161,0
+Nov,Arthropoda,Hyale sp,50m,1,0,62,0
+Nov,Arthropoda,Hyale sp,50m,2,0,96,0
+Nov,Arthropoda,Hyale sp,50m,3,0,183,0
+Nov,Arthropoda,Hyale sp,50m,4,0,88,0
+Nov,Arthropoda,Idotea metallica,2m,1,5,179,27.9
+Nov,Arthropoda,Idotea metallica,2m,2,0,195,0
+Nov,Arthropoda,Idotea metallica,2m,3,1,152,6.6
+Nov,Arthropoda,Idotea metallica,2m,4,0,63,0
+Nov,Arthropoda,Idotea metallica,500m,1,0,86,0
+Nov,Arthropoda,Idotea metallica,500m,2,0,185,0
+Nov,Arthropoda,Idotea metallica,500m,3,0,161,0
+Nov,Arthropoda,Idotea metallica,500m,4,0,161,0
+Nov,Arthropoda,Idotea metallica,50m,1,0,62,0
+Nov,Arthropoda,Idotea metallica,50m,2,0,96,0
+Nov,Arthropoda,Idotea metallica,50m,3,0,183,0
+Nov,Arthropoda,Idotea metallica,50m,4,0,88,0
+Nov,Arthropoda,Latreutes fucorum,2m,1,270,179,1508.4
+Nov,Arthropoda,Latreutes fucorum,2m,2,8,195,41
+Nov,Arthropoda,Latreutes fucorum,2m,3,1,152,6.6
+Nov,Arthropoda,Latreutes fucorum,2m,4,1,63,15.9
+Nov,Arthropoda,Latreutes fucorum,500m,1,160,86,1860.5
+Nov,Arthropoda,Latreutes fucorum,500m,2,43,185,232.4
+Nov,Arthropoda,Latreutes fucorum,500m,3,83,161,515.5
+Nov,Arthropoda,Latreutes fucorum,500m,4,29,161,180.1
+Nov,Arthropoda,Latreutes fucorum,50m,1,60,62,967.7
+Nov,Arthropoda,Latreutes fucorum,50m,2,29,96,302.1
+Nov,Arthropoda,Latreutes fucorum,50m,3,48,183,262.3
+Nov,Arthropoda,Latreutes fucorum,50m,4,37,88,420.5
+Nov,Arthropoda,Leander ternuicornis,2m,1,3,179,16.8
+Nov,Arthropoda,Leander ternuicornis,2m,2,0,195,0
+Nov,Arthropoda,Leander ternuicornis,2m,3,0,152,0
+Nov,Arthropoda,Leander ternuicornis,2m,4,0,63,0
+Nov,Arthropoda,Leander ternuicornis,500m,1,9,86,104.7
+Nov,Arthropoda,Leander ternuicornis,500m,2,1,185,5.4
+Nov,Arthropoda,Leander ternuicornis,500m,3,8,161,49.7
+Nov,Arthropoda,Leander ternuicornis,500m,4,5,161,31.1
+Nov,Arthropoda,Leander ternuicornis,50m,1,1,62,16.1
+Nov,Arthropoda,Leander ternuicornis,50m,2,0,96,0
+Nov,Arthropoda,Leander ternuicornis,50m,3,0,183,0
+Nov,Arthropoda,Leander ternuicornis,50m,4,0,88,0
+Nov,Arthropoda,Nototropis minikoi,2m,1,1429,179,7983.2
+Nov,Arthropoda,Nototropis minikoi,2m,2,65,195,333.3
+Nov,Arthropoda,Nototropis minikoi,2m,3,5,152,32.9
+Nov,Arthropoda,Nototropis minikoi,2m,4,1,63,15.9
+Nov,Arthropoda,Nototropis minikoi,500m,1,0,86,0
+Nov,Arthropoda,Nototropis minikoi,500m,2,1,185,5.4
+Nov,Arthropoda,Nototropis minikoi,500m,3,0,161,0
+Nov,Arthropoda,Nototropis minikoi,500m,4,0,161,0
+Nov,Arthropoda,Nototropis minikoi,50m,1,6,62,96.8
+Nov,Arthropoda,Nototropis minikoi,50m,2,2,96,20.8
+Nov,Arthropoda,Nototropis minikoi,50m,3,1,183,5.5
+Nov,Arthropoda,Nototropis minikoi,50m,4,0,88,0
+Nov,Arthropoda,Penaeoidea,2m,1,0,179,0
+Nov,Arthropoda,Penaeoidea,2m,2,0,195,0
+Nov,Arthropoda,Penaeoidea,2m,3,0,152,0
+Nov,Arthropoda,Penaeoidea,2m,4,0,63,0
+Nov,Arthropoda,Penaeoidea,500m,1,0,86,0
+Nov,Arthropoda,Penaeoidea,500m,2,0,185,0
+Nov,Arthropoda,Penaeoidea,500m,3,3,161,18.6
+Nov,Arthropoda,Penaeoidea,500m,4,0,161,0
+Nov,Arthropoda,Penaeoidea,50m,1,0,62,0
+Nov,Arthropoda,Penaeoidea,50m,2,0,96,0
+Nov,Arthropoda,Penaeoidea,50m,3,0,183,0
+Nov,Arthropoda,Penaeoidea,50m,4,0,88,0
+Nov,Arthropoda,Portunus sayi,2m,1,16,179,89.4
+Nov,Arthropoda,Portunus sayi,2m,2,1,195,5.1
+Nov,Arthropoda,Portunus sayi,2m,3,1,152,6.6
+Nov,Arthropoda,Portunus sayi,2m,4,1,63,15.9
+Nov,Arthropoda,Portunus sayi,500m,1,6,86,69.8
+Nov,Arthropoda,Portunus sayi,500m,2,3,185,16.2
+Nov,Arthropoda,Portunus sayi,500m,3,2,161,12.4
+Nov,Arthropoda,Portunus sayi,500m,4,4,161,24.8
+Nov,Arthropoda,Portunus sayi,50m,1,6,62,96.8
+Nov,Arthropoda,Portunus sayi,50m,2,1,96,10.4
+Nov,Arthropoda,Portunus sayi,50m,3,0,183,0
+Nov,Arthropoda,Portunus sayi,50m,4,3,88,34.1
+Nov,Arthropoda,Probopyrinella latreuticola,2m,1,14,179,78.2
+Nov,Arthropoda,Probopyrinella latreuticola,2m,2,0,195,0
+Nov,Arthropoda,Probopyrinella latreuticola,2m,3,0,152,0
+Nov,Arthropoda,Probopyrinella latreuticola,2m,4,0,63,0
+Nov,Arthropoda,Probopyrinella latreuticola,500m,1,3,86,34.9
+Nov,Arthropoda,Probopyrinella latreuticola,500m,2,1,185,5.4
+Nov,Arthropoda,Probopyrinella latreuticola,500m,3,3,161,18.6
+Nov,Arthropoda,Probopyrinella latreuticola,500m,4,0,161,0
+Nov,Arthropoda,Probopyrinella latreuticola,50m,1,2,62,32.3
+Nov,Arthropoda,Probopyrinella latreuticola,50m,2,0,96,0
+Nov,Arthropoda,Probopyrinella latreuticola,50m,3,3,183,16.4
+Nov,Arthropoda,Probopyrinella latreuticola,50m,4,1,88,11.4
+Nov,Arthropoda,Pycnogonidae,2m,1,14,179,78.2
+Nov,Arthropoda,Pycnogonidae,2m,2,10,195,51.3
+Nov,Arthropoda,Pycnogonidae,2m,3,0,152,0
+Nov,Arthropoda,Pycnogonidae,2m,4,2,63,31.7
+Nov,Arthropoda,Pycnogonidae,500m,1,0,86,0
+Nov,Arthropoda,Pycnogonidae,500m,2,0,185,0
+Nov,Arthropoda,Pycnogonidae,500m,3,1,161,6.2
+Nov,Arthropoda,Pycnogonidae,500m,4,1,161,6.2
+Nov,Arthropoda,Pycnogonidae,50m,1,0,62,0
+Nov,Arthropoda,Pycnogonidae,50m,2,0,96,0
+Nov,Arthropoda,Pycnogonidae,50m,3,1,183,5.5
+Nov,Arthropoda,Pycnogonidae,50m,4,1,88,11.4
+Nov,Arthropoda,Sunamphitoe pelagica,2m,1,1,179,5.6
+Nov,Arthropoda,Sunamphitoe pelagica,2m,2,2,195,10.3
+Nov,Arthropoda,Sunamphitoe pelagica,2m,3,1,152,6.6
+Nov,Arthropoda,Sunamphitoe pelagica,2m,4,0,63,0
+Nov,Arthropoda,Sunamphitoe pelagica,500m,1,0,86,0
+Nov,Arthropoda,Sunamphitoe pelagica,500m,2,1,185,5.4
+Nov,Arthropoda,Sunamphitoe pelagica,500m,3,0,161,0
+Nov,Arthropoda,Sunamphitoe pelagica,500m,4,0,161,0
+Nov,Arthropoda,Sunamphitoe pelagica,50m,1,0,62,0
+Nov,Arthropoda,Sunamphitoe pelagica,50m,2,2,96,20.8
+Nov,Arthropoda,Sunamphitoe pelagica,50m,3,0,183,0
+Nov,Arthropoda,Sunamphitoe pelagica,50m,4,0,88,0
+Nov,Arthropoda,Tozeuma carolinense,2m,1,0,179,0
+Nov,Arthropoda,Tozeuma carolinense,2m,2,0,195,0
+Nov,Arthropoda,Tozeuma carolinense,2m,3,0,152,0
+Nov,Arthropoda,Tozeuma carolinense,2m,4,0,63,0
+Nov,Arthropoda,Tozeuma carolinense,500m,1,0,86,0
+Nov,Arthropoda,Tozeuma carolinense,500m,2,0,185,0
+Nov,Arthropoda,Tozeuma carolinense,500m,3,3,161,18.6
+Nov,Arthropoda,Tozeuma carolinense,500m,4,1,161,6.2
+Nov,Arthropoda,Tozeuma carolinense,50m,1,0,62,0
+Nov,Arthropoda,Tozeuma carolinense,50m,2,0,96,0
+Nov,Arthropoda,Tozeuma carolinense,50m,3,0,183,0
+Nov,Arthropoda,Tozeuma carolinense,50m,4,0,88,0
+Nov,Chordata,Abudefduf saxatilis,2m,1,0,179,0
+Nov,Chordata,Abudefduf saxatilis,2m,2,0,195,0
+Nov,Chordata,Abudefduf saxatilis,2m,3,0,152,0
+Nov,Chordata,Abudefduf saxatilis,2m,4,0,63,0
+Nov,Chordata,Abudefduf saxatilis,500m,1,0,86,0
+Nov,Chordata,Abudefduf saxatilis,500m,2,0,185,0
+Nov,Chordata,Abudefduf saxatilis,500m,3,3,161,18.6
+Nov,Chordata,Abudefduf saxatilis,500m,4,1,161,6.2
+Nov,Chordata,Abudefduf saxatilis,50m,1,0,62,0
+Nov,Chordata,Abudefduf saxatilis,50m,2,0,96,0
+Nov,Chordata,Abudefduf saxatilis,50m,3,0,183,0
+Nov,Chordata,Abudefduf saxatilis,50m,4,0,88,0
+Nov,Chordata,Carangoides bartholomaei,2m,1,0,179,0
+Nov,Chordata,Carangoides bartholomaei,2m,2,0,195,0
+Nov,Chordata,Carangoides bartholomaei,2m,3,0,152,0
+Nov,Chordata,Carangoides bartholomaei,2m,4,0,63,0
+Nov,Chordata,Carangoides bartholomaei,500m,1,0,86,0
+Nov,Chordata,Carangoides bartholomaei,500m,2,0,185,0
+Nov,Chordata,Carangoides bartholomaei,500m,3,0,161,0
+Nov,Chordata,Carangoides bartholomaei,500m,4,0,161,0
+Nov,Chordata,Carangoides bartholomaei,50m,1,1,62,16.1
+Nov,Chordata,Carangoides bartholomaei,50m,2,0,96,0
+Nov,Chordata,Carangoides bartholomaei,50m,3,0,183,0
+Nov,Chordata,Carangoides bartholomaei,50m,4,0,88,0
+Nov,Chordata,Histrio histrio,2m,1,1,179,5.6
+Nov,Chordata,Histrio histrio,2m,2,0,195,0
+Nov,Chordata,Histrio histrio,2m,3,0,152,0
+Nov,Chordata,Histrio histrio,2m,4,0,63,0
+Nov,Chordata,Histrio histrio,500m,1,0,86,0
+Nov,Chordata,Histrio histrio,500m,2,0,185,0
+Nov,Chordata,Histrio histrio,500m,3,0,161,0
+Nov,Chordata,Histrio histrio,500m,4,0,161,0
+Nov,Chordata,Histrio histrio,50m,1,0,62,0
+Nov,Chordata,Histrio histrio,50m,2,0,96,0
+Nov,Chordata,Histrio histrio,50m,3,0,183,0
+Nov,Chordata,Histrio histrio,50m,4,0,88,0
+Nov,Chordata,Stephanolepis hispidus,2m,1,0,179,0
+Nov,Chordata,Stephanolepis hispidus,2m,2,0,195,0
+Nov,Chordata,Stephanolepis hispidus,2m,3,0,152,0
+Nov,Chordata,Stephanolepis hispidus,2m,4,0,63,0
+Nov,Chordata,Stephanolepis hispidus,500m,1,1,86,11.6
+Nov,Chordata,Stephanolepis hispidus,500m,2,0,185,0
+Nov,Chordata,Stephanolepis hispidus,500m,3,0,161,0
+Nov,Chordata,Stephanolepis hispidus,500m,4,1,161,6.2
+Nov,Chordata,Stephanolepis hispidus,50m,1,0,62,0
+Nov,Chordata,Stephanolepis hispidus,50m,2,0,96,0
+Nov,Chordata,Stephanolepis hispidus,50m,3,0,183,0
+Nov,Chordata,Stephanolepis hispidus,50m,4,0,88,0
+Nov,Chordata,Syngnathus pelagicus,2m,1,1,179,5.6
+Nov,Chordata,Syngnathus pelagicus,2m,2,0,195,0
+Nov,Chordata,Syngnathus pelagicus,2m,3,0,152,0
+Nov,Chordata,Syngnathus pelagicus,2m,4,0,63,0
+Nov,Chordata,Syngnathus pelagicus,500m,1,0,86,0
+Nov,Chordata,Syngnathus pelagicus,500m,2,0,185,0
+Nov,Chordata,Syngnathus pelagicus,500m,3,0,161,0
+Nov,Chordata,Syngnathus pelagicus,500m,4,0,161,0
+Nov,Chordata,Syngnathus pelagicus,50m,1,0,62,0
+Nov,Chordata,Syngnathus pelagicus,50m,2,0,96,0
+Nov,Chordata,Syngnathus pelagicus,50m,3,0,183,0
+Nov,Chordata,Syngnathus pelagicus,50m,4,0,88,0
+Nov,Mollusca,Litiopa melanostoma,2m,1,129,179,720.7
+Nov,Mollusca,Litiopa melanostoma,2m,2,18,195,92.3
+Nov,Mollusca,Litiopa melanostoma,2m,3,28,152,184.2
+Nov,Mollusca,Litiopa melanostoma,2m,4,56,63,888.9
+Nov,Mollusca,Litiopa melanostoma,500m,1,59,86,686
+Nov,Mollusca,Litiopa melanostoma,500m,2,142,185,767.6
+Nov,Mollusca,Litiopa melanostoma,500m,3,136,161,844.7
+Nov,Mollusca,Litiopa melanostoma,500m,4,105,161,652.2
+Nov,Mollusca,Litiopa melanostoma,50m,1,31,62,500
+Nov,Mollusca,Litiopa melanostoma,50m,2,102,96,1062.5
+Nov,Mollusca,Litiopa melanostoma,50m,3,176,183,961.7
+Nov,Mollusca,Litiopa melanostoma,50m,4,10,88,113.6
+Nov,Mollusca,Nudibranchia,2m,1,3,179,16.8
+Nov,Mollusca,Nudibranchia,2m,2,1,195,5.1
+Nov,Mollusca,Nudibranchia,2m,3,0,152,0
+Nov,Mollusca,Nudibranchia,2m,4,7,63,111.1
+Nov,Mollusca,Nudibranchia,500m,1,1,86,11.6
+Nov,Mollusca,Nudibranchia,500m,2,0,185,0
+Nov,Mollusca,Nudibranchia,500m,3,0,161,0
+Nov,Mollusca,Nudibranchia,500m,4,0,161,0
+Nov,Mollusca,Nudibranchia,50m,1,0,62,0
+Nov,Mollusca,Nudibranchia,50m,2,0,96,0
+Nov,Mollusca,Nudibranchia,50m,3,0,183,0
+Nov,Mollusca,Nudibranchia,50m,4,0,88,0
+Nov,Nemertea,Nemertea,2m,1,9,179,50.3
+Nov,Nemertea,Nemertea,2m,2,1,195,5.1
+Nov,Nemertea,Nemertea,2m,3,0,152,0
+Nov,Nemertea,Nemertea,2m,4,2,63,31.7
+Nov,Nemertea,Nemertea,500m,1,0,86,0
+Nov,Nemertea,Nemertea,500m,2,3,185,16.2
+Nov,Nemertea,Nemertea,500m,3,6,161,37.3
+Nov,Nemertea,Nemertea,500m,4,1,161,6.2
+Nov,Nemertea,Nemertea,50m,1,7,62,112.9
+Nov,Nemertea,Nemertea,50m,2,2,96,20.8
+Nov,Nemertea,Nemertea,50m,3,4,183,21.9
+Nov,Nemertea,Nemertea,50m,4,5,88,56.8
+Nov,Platyhelminthes,Gnesioceros sargassicola,2m,1,0,179,0
+Nov,Platyhelminthes,Gnesioceros sargassicola,2m,2,2,195,10.3
+Nov,Platyhelminthes,Gnesioceros sargassicola,2m,3,0,152,0
+Nov,Platyhelminthes,Gnesioceros sargassicola,2m,4,3,63,47.6
+Nov,Platyhelminthes,Gnesioceros sargassicola,500m,1,1,86,11.6
+Nov,Platyhelminthes,Gnesioceros sargassicola,500m,2,0,185,0
+Nov,Platyhelminthes,Gnesioceros sargassicola,500m,3,3,161,18.6
+Nov,Platyhelminthes,Gnesioceros sargassicola,500m,4,0,161,0
+Nov,Platyhelminthes,Gnesioceros sargassicola,50m,1,0,62,0
+Nov,Platyhelminthes,Gnesioceros sargassicola,50m,2,0,96,0
+Nov,Platyhelminthes,Gnesioceros sargassicola,50m,3,1,183,5.5
+Nov,Platyhelminthes,Gnesioceros sargassicola,50m,4,0,88,0
+Nov,Sipuncula,Sipinculid,2m,1,1,179,5.6
+Nov,Sipuncula,Sipinculid,2m,2,0,195,0
+Nov,Sipuncula,Sipinculid,2m,3,0,152,0
+Nov,Sipuncula,Sipinculid,2m,4,0,63,0
+Nov,Sipuncula,Sipinculid,500m,1,1,86,11.6
+Nov,Sipuncula,Sipinculid,500m,2,1,185,5.4
+Nov,Sipuncula,Sipinculid,500m,3,0,161,0
+Nov,Sipuncula,Sipinculid,500m,4,0,161,0
+Nov,Sipuncula,Sipinculid,50m,1,0,62,0
+Nov,Sipuncula,Sipinculid,50m,2,0,96,0
+Nov,Sipuncula,Sipinculid,50m,3,0,183,0
+Nov,Sipuncula,Sipinculid,50m,4,0,88,0
